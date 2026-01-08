@@ -1,0 +1,5 @@
+"user_id","email","total_spent","days_since_last_order","segment"
+2,"richman777@gmail.com","25000.00",608,"Churned"
+3,"newbie@test.com","1500.00",1,"Active"
+4,"regular@gmail.com","6000.00",19,"Active"
+1,"admin@gmail.com","12500.00",2,"VIP"
